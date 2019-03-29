@@ -25,6 +25,9 @@
 .badge-success, .badge.badge-success, .label-success, .label.label-success {
     background-color: #F8981D;
 }
+.breadcrumbs {
+    background-color: #fff;
+}
 .light-blue {
     color: #B31B1B!important;
 }
@@ -61,4 +64,6 @@
 }
 .widget-header {
     color: #757575;
+    background: none;
+    background-image: none;
 }
